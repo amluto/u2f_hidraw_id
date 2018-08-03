@@ -125,7 +125,7 @@ int main(int argc, char **argv)
 
                 /*
                  * Detect U2F tokens.  See:
-                 * https://fidoalliance.org/specs/fido-u2f-HID-protocol-v1.0-rd-20141008.pdf
+                 * https://fidoalliance.org/specs/fido-u2f-v1.0-ps-20141009/fido-u2f-hid-protocol-ps-20141009.pdf
                  * http://www.usb.org/developers/hidpage/HUTRR48.pdf
                  */
 
